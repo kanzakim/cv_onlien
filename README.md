@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Resume Eka Novi Kartika</title>
+  <title>CV Eka Novi Kartika</title>
   <style>
     :root {
       --primary: #2c3e50;
@@ -156,4 +156,3 @@
   </div>
 </body>
 </html>
-
